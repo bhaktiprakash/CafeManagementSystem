@@ -1,0 +1,23 @@
+@charset "UTF-8";
+body {
+      margin: 0;
+      line-height: normal;
+    }
+    
+    :root {
+      /* fonts */
+      --font-gothic-a1: "Gothic A1";
+    
+      /* font sizes */
+      --font-size-16xl: 35px;
+    
+      /* Colors */
+      --color-teal-100: #006a71;
+      --color-teal-200: rgba(0, 106, 113, 0.28);
+      --color-teal-300: rgba(0, 106, 113, 0.91);
+      --color-black: #000;
+    
+      /* border radiuses */
+      --br-9xl: 28px;
+    }
+    

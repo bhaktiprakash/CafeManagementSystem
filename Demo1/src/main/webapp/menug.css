@@ -1,0 +1,28 @@
+@charset "UTF-8";
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-galindo: Galindo;
+  --font-galdeano: Galdeano;
+
+  /* font sizes */
+  --font-size-6xl: 25px;
+  --font-size-16xl: 35px;
+  --font-size-39xl: 58px;
+  --font-size-20xl: 39px;
+
+  /* Colors */
+  --color-black: #000;
+  --color-moccasin: #f8e1ad;
+  --color-teal: #006a71;
+  --color-powderblue-100: #c1e2df;
+
+  /* border radiuses */
+  --br-9xl: 28px;
+  --br-19xl: 38px;
+}
+

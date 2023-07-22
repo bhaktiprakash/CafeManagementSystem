@@ -1,0 +1,153 @@
+@charset "UTF-8";
+@import url(https://fonts.googleapis.com/css2?family=Galindo:wght@400&display=swap);
+@import url(https://fonts.googleapis.com/css2?family=Fredoka:wght@400;500&display=swap);
+@import url(https://fonts.googleapis.com/css2?family=Gothic%20A1:wght@500;800&display=swap);
+.desktop-3-child,
+.desktop-3-item {
+  position: absolute;
+  background-color: var(--color-teal-100);
+}
+.desktop-3-child {
+  top: 1196.63px;
+  left: 1327.53px;
+  border-radius: 124px;
+  width: 873.34px;
+  height: 1090.76px;
+  transform: rotate(-145.48deg);
+  transform-origin: 0 0;
+}
+.desktop-3-item {
+  top: 285px;
+  left: 126px;
+  border-radius: 8px;
+  width: 512px;
+  height: 100px;
+}
+.cafeteria {
+  position: absolute;
+  top: 271px;
+  left: 135px;
+  font-size: 96px;
+  color: var(--color-white);
+}
+.bg{
+  top:-100;
+}
+
+
+.desktop-3-inner,
+.vector-icon {
+  position: absolute;
+  top: 765.59px;
+  left: 1241px;
+  width: 238px;
+  height: 35.71px;
+}
+.vector-icon {
+  top: 730px;
+  left: 1099px;
+  width: 130px;
+  height: 6px;
+  opacity: 0.67;
+}
+.desktop-3-child1 {
+  position: absolute;
+  top: 720.37px;
+  left: 1383px;
+  width: 30px;
+  height: 8.63px;
+}
+.desktop-3-child2 {
+  position: absolute;
+  top: 675px;
+  left: 823px;
+  width: 108px;
+  height: 18.48px;
+}
+.desktop-3-child3 {
+  position: absolute;
+  top: 707px;
+  left: 971px;
+  width: 218px;
+  height: 10.4px;
+}
+.desktop-3-child4 {
+  position: absolute;
+  top: 750px;
+  left: 947px;
+  width: 198px;
+  height: 21.01px;
+}
+.ef3f265c26f55dddcd976fdc3-remo-icon1 {
+  position: absolute;
+  top: 787px;
+  left: 192px;
+  width: 116.51px;
+  height: 113.51px;
+  object-fit: cover;
+}
+.desktop-3-child5 {
+  position: absolute;
+  top: 84px;
+  left: 318.86px;
+  width: 464.93px;
+  height: 252px;
+}
+.desktop-3-child6,
+.rectangle-div {
+  position: absolute;
+  top: 639px;
+  left: 39px;
+  width: 602px;
+  height: 171.29px;
+}
+.rectangle-div {
+  top: 426px;
+  left: 183px;
+  border-radius: 13px;
+  background-color: var(--color-white);
+  border: 5px solid var(--color-teal-100);
+  box-sizing: border-box;
+  width: 139px;
+  height: 51px;
+}
+.log-in,
+.sign-up {
+  position: absolute;
+  top: 425px;
+  font-family: var(--font-fredoka);
+  font-size: 2em;
+}
+.log-in {
+  left: 200px;
+  display: inline-block;
+  width: 140px;
+  height: 66px;
+}
+.sign-up {
+  left: 380px;
+  font-weight: 500;
+}
+.log-in a:hover,.sign-up a:hover{
+  text-decoration: underline ;
+}
+.good-food {
+  position: absolute;
+  top: 220px;
+  left: 102px;
+  font-size: 46px;
+}
+a{
+  text-decoration: none;
+}
+.desktop-3 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 903px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-19xl);
+  color: var(--color-teal-100);
+  font-family: var(--font-galindo);
+}
